@@ -19,6 +19,6 @@ The method is developed in python3 and the following libraries should be install
 ## Steps to setup and execute the code
 ### Data preparation
 We evaluated our work with three datasets which are [Raabin-WBC](https://doi.org/10.1101/2021.05.02.442287) , [LISC](https://doi.org/10.1016/j.compmedimag.2011.01.003), and BCCD. 
-We cropped white blood cells that existed in the LISC images and made these images suit for our own work. So if you use the LISC dataset, you must cite the mentioned paper. Download the cropped images of the LISC dataset from [here](https://drive.google.com/file/d/1gknVrSs1CRy8PoIh1HXiGu-1ObH3cQ9S/view?usp=sharing).
+We cropped the white blood cells of the LISC dataset and made it suit for our own work. So if you use the LISC dataset, you must its [paper](https://doi.org/10.1016/j.compmedimag.2011.01.003). Download the cropped images of the LISC dataset from [here](https://drive.google.com/file/d/1gknVrSs1CRy8PoIh1HXiGu-1ObH3cQ9S/view?usp=sharing).
 
 
