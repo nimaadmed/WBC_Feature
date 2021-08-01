@@ -16,3 +16,5 @@ The method is developed in python3 and the following libraries should be install
 * scipy: 1.5.2
 * pyhdust: 1.3.26
 
+## Steps to setup and execute the code
+
