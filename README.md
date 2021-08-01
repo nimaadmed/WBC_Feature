@@ -24,7 +24,10 @@ We evaluated our work with three datasets which are [Raabin-WBC](https://doi.org
 * Finally, download the [Raabin-WBC dataset](http://www.raabindata.ir/WBC/Cropped_double_labeled/PaperFormatData.rar). 
 ### Step2:
 * After downloading the datasets, extract and put them beside the main.py . Then,  you can run the main.py. Type 1 or 2 or 3 to select the dataset.
-
+## Citation
+If you use the Raabin-WBC dataset, you should cite the [corresponding paper]((https://doi.org/10.1101/2021.05.02.442287). If you use ground truths that utilized in this paper please cite [our paper](https://doi.org/10.1101/2021.04.29.441751) in addition to Raabin-WBC paper. The IEEE style of citations:
+* Z. M. Kouzehkanan et al., “Raabin-WBC: a large free access dataset of white blood cells from normal peripheral blood,” bioRxiv, p. 2021.05.02.442287, Jan. 2021, doi: 10.1101/2021.05.02.442287.
+* S. Tavakoli, A. Ghaffari, Z. M. Kouzehkanan, and R. Hosseini, “New Segmentation and Feature Extraction Algorithm for the Classification of White Blood Cells in Peripheral Smear Images,” bioRxiv, 2021, doi: 10.1101/2021.04.29.441751
 
 
 
