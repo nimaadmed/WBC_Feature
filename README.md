@@ -17,5 +17,5 @@ The method is developed in python3 and the following libraries should be install
 * pyhdust: 1.3.26
 
 ## Steps to setup and execute the code
-### 
+### Data preparation
 
