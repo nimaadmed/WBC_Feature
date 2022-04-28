@@ -16,16 +16,16 @@ The method is developed in python3 and the following libraries should be install
 * scipy: 1.5.2
 * pyhdust: 1.3.26
 
-## Steps to setup and execute the code
+## Steps to set up and execute the code
 ### Step1: Data preparation
 We evaluated our work with three datasets [Raabin-WBC](https://www.nature.com/articles/s41598-021-04426-x), [LISC](https://doi.org/10.1016/j.compmedimag.2011.01.003), and BCCD. 
 * We cropped the white blood cells of the LISC dataset and made them suit for our own work. So if you use the LISC dataset, you must cite its [paper](https://doi.org/10.1016/j.compmedimag.2011.01.003). Download the cropped images of the LISC dataset from [here](https://drive.google.com/file/d/1gknVrSs1CRy8PoIh1HXiGu-1ObH3cQ9S/view?usp=sharing). Also, you can download the original LISC dataset from [here](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm).
 * Besides the LISC dataset, we also used the BCCD dataset. The original BCCD dataset is available from Kaggle. We made this dataset suit for our own work. Download the dataset from [here](https://drive.google.com/file/d/1h-wuDURfuKeJYvKOWTcYpuyMxNy0lzIt/view?usp=sharing).
-* Finally, download the Double-labeled Raabin-WBC dataset from [here](https://drive.google.com/file/d/1-aPhQyakD79vKYh2l0fPsT2xCiX3UMYi/view?usp=sharing). Note that these data are the same as data uploaded on www.Raabindata.com as [double-labeled cells](http://dl.raabindata.com/WBC/Cropped_double_labeled/), except these data have been prepared for this repo and the related paper.
+* Finally, download the Double-labeled Raabin-WBC dataset from [here](https://drive.google.com/file/d/1-aPhQyakD79vKYh2l0fPsT2xCiX3UMYi/view?usp=sharing). Note that these data are the same as [the original version](http://dl.raabindata.com/WBC/Cropped_double_labeled/), except these data have been prepared for this repo and the related paper.
 ### Step2:
 * After downloading the datasets, extract and put them beside the main.py . Then,  you can run the main.py. Type 1 or 2 or 3 to select the dataset.
 ## Citation
-Please cite the [corresponding paper](https://doi.org/10.1038/s41598-021-98599-0) and [Raabin-WBC paper](https://doi.org/10.1038/s41598-021-04426-x). The IEEE style of citations:
+Please cite [the corresponding paper](https://doi.org/10.1038/s41598-021-98599-0) and [Raabin-WBC paper](https://doi.org/10.1038/s41598-021-04426-x). The IEEE style of citations:
 * Tavakoli, S., Ghaffari, A., Kouzehkanan, Z.M. et al. New segmentation and feature extraction algorithm for classification of white blood cells in peripheral smear images. Sci Rep 11, 19428 (2021). https://doi.org/10.1038/s41598-021-98599-0
 * Kouzehkanan, Z.M., Saghari, S., Tavakoli, S. et al. A large dataset of white blood cells containing cell locations and types, along with segmented nuclei and cytoplasm. Sci Rep 12, 1123 (2022). https://doi.org/10.1038/s41598-021-04426-x
 
